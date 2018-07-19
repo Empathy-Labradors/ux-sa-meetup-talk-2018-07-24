@@ -65,41 +65,41 @@ We got sad. Then we got angry. Then we rolled up our sleeves and got to work - w
 
 ---
 
-![fit](img/minergie-normal.png)
+![fit](img/ct-normal.jpg)
 
 ^ N: A shiny Swiss site.
 as someone designed it.
 
 ---
 
-![fit](img/minergie-screen.jpg)
+![fit](img/ct-screen.jpg)
 
 ^ S: screen reader
 or reader view
 
 ---
 
-![fit](img/minergie-colourblind.png)
+![fit](img/ct-colourblind.jpg)
 
 ^ N: common colour blind
 // deuteranopia
 
 ---
 
-![fit](img/minergie-blurry.png)
+![fit](img/ct-blurry.jpg)
 
 ^ S: forgot my glasses
 
 ---
 
-![fit](img/minergie-sun.png)
+![fit](img/ct-sunny.jpg)
 
 ^ N: sunny outside
 
 ---
 
-![inline fill](img/minergie-screen.jpg) ![inline fill](img/minergie-colourblind.png)
-![inline fill](img/minergie-blurry.png) ![inline fill](img/minergie-sun.png)
+![inline fill](img/ct-screen.jpg) ![inline fill](img/ct-colourblind.jpg)
+![inline fill](img/ct-blurry.jpg) ![inline fill](img/ct-sunny.jpg)
 
 ^ S: we design and develop mostly in one way
 in the dev world we say: works on my machine!
