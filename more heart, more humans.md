@@ -20,7 +20,7 @@ Inclusive Design is a powerful tool thing that will help you do this
 
 ---
 
-## Did anyone notice<br>something weird<br>on the stairs?<br>On the walls?
+## Did anyone notice<br>something weird on the walls?
 
 ## **bit.ly/emplab301**
 
@@ -67,7 +67,7 @@ We got sad. Then we got angry. Then we rolled up our sleeves and got to work - w
 
 ![fit](img/ct-normal.jpg)
 
-^ N: A shiny Swiss site.
+^ N: Our local govt's site.
 as someone designed it.
 
 ---
@@ -137,39 +137,33 @@ Accessible
 - Responsive too!
 - What we'll see shortly is that all the shiny shit we add can limit people's abilities to use our stuff and therefore create barriers.
 
----
-
 <!--
 ## Get ready to get up…
-## 🏃‍♀️
+## 💃 🕺
 
-^ N: get ready to get up
--->
+^ N: get ready to get up-->
 
-## **Please to standing up...**<br>(yes, really)<br>(It's practice for later)
+<!--
+## **Please be standing up...**<br>(yes, really)<br>
 ## 💃 🕺
 
 ^ S: We're trying something new
 Normally we ask people to write on the posters
-Thank you for your co-operation
+Thank you for your co-operation-->
 
 ---
 
-<!-- ## **Know someone with this functional capacity?**-->
-<!-- ## **Draw a ❤** -->
+## Get ready to stand up…
+## 💃 🕺
+---
 
-<!-- posters goes up as usual -->
-<!-- the dribble venue is huge, so... -->
-<!-- the audience stands up as we talk through the steps -->
-
+## Experienced this?
 ## Friend? 👯<br>Parent? 👵<br>Colleague? 👷
-## **Stand up!**
+## **Draw a ❤**
 
 ![](img/people-with-disabilities.jpg)
 
 ^ N:
-- Ok, now is "later"
-- Explain how the process works.
 - We've got some examples of differing physical and cognitive  abilities up on those posters. Think about how you or someone you know might have experience of these.  Go up and draw a heart on any capabilities (or lack thereof) that are relevant to you.
 
 ---
@@ -285,6 +279,16 @@ lots of the disabilities are invisible. Won't show up in analytics or stats
 - Two sets of guidelines worth Googling: Web Content Accessibility Guidelines & Web Accessibility Initiative-Accessible Rich Internet Applications Suite
 - WCAG gives guidelines for AA- and AAA-level accessibility
 
+---
+## **P**erceivable
+## **O**perable
+## **U**nderstandable
+## **R**obust
+
+^ More specifically
+WCAG Principles of accessibility
+
+^ At the most basic level, users must be able to process and perceive information. They need to be able to operate websites and applications with a variety of tools. If users can perceive and operate a website, that doesn't mean they can understand it. Understandable websites use clear, concise language and offer functionality that is easy to comprehend. And users pick their own mix of technologies. Within limits, websites should be robust enough to work well-enough across platforms, browsers, and devices to account for personal choice and user need.
 
 ---
 
