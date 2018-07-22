@@ -137,11 +137,10 @@ Accessible
 - Responsive too!
 - What we'll see shortly is that all the shiny shit we add can limit people's abilities to use our stuff and therefore create barriers.
 
-<!--
-## Get ready to get up…
-## 💃 🕺
+---
 
-^ N: get ready to get up-->
+## Get ready to stand up…
+## 💃 🕺
 
 <!--
 ## **Please be standing up...**<br>(yes, really)<br>
@@ -149,12 +148,9 @@ Accessible
 
 ^ S: We're trying something new
 Normally we ask people to write on the posters
-Thank you for your co-operation-->
+Thank you for your co-operation
+-->
 
----
-
-## Get ready to stand up…
-## 💃 🕺
 ---
 
 ## Experienced this?
