@@ -466,7 +466,8 @@ Maybe be familiar from before (barriers)
 ![](img/plain-language.jpg)
 
 ^ S: People’s home language can be different to the one your content is written in. People with cognitive difficulties like dyslexia struggle with long or complex content.
-^ We'll share a link with you in a mo for plugins etc to help you test things.
+Story: Seen confusion with "address 1, address 2" vs "number and street, suburb".
+We'll share a link with you in a mo for plugins etc to help you test things.
 
 ---
 
@@ -478,7 +479,7 @@ Maybe be familiar from before (barriers)
 
 ^ N: People with physical impairments (and power users!) use a keyboard instead of a mouse as it doesn’t require precise movements.
 If you tab through the elements on a webpage, can you move the cursor focus around in a sequence that makes sense?
-
+Story: Gran and an example of her getting stuck.
 
 ---
 
@@ -490,6 +491,7 @@ If you tab through the elements on a webpage, can you move the cursor focus arou
 
 ^ S: People with visual disabilities need information that has sufficient colour contrast and information that isn’t represented only in colour.
 Anyone on a dodgy screen, or out in the sun
+Story: UI Designer seeing the light grey on grey on an external monitor. Worked together to fix it.
 We'll give you links for some tools
 
 ---
