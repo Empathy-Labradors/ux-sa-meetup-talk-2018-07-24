@@ -260,7 +260,8 @@ Any of these could create a barrier to access, to use
 ## **2. The What and the Why**
 ## 3. The How
 
-^ N: Let's talk about what inclusive design is.
+^ N: any questions about disability as a spectrum
+Let's talk about what inclusive design is.
 
 ---
 
@@ -450,7 +451,8 @@ Shout outs: what was the most surprising thing for you in the What and the Why?
 ## ~~2. The What and the Why~~
 ## **3. The How**
 
-^ S: Final section. Practical stuff you can do **now**.
+^ S: Any questions about the what and the why?
+Final section. Practical stuff you can do **now**.
 Well, after the talk. Don't do it **right now**.
 That'd be weird and awkward.
 
