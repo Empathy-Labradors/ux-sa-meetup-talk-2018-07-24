@@ -42,6 +42,7 @@ It's some Inclusive Design myth-busting
 
 ^
 S: That was us, in 2017, looking at some of things we’d designed and built.
+We realised it wasn't our best work: it wasn't accessible. We'd made some bad assumptions.
 We got sad. Then we got angry. Then we rolled up our sleeves and got to work - we started thinking about how we could do our work better, and help other people to do the same.
 
 ---
@@ -170,6 +171,8 @@ Thank you for your co-operation
 
 ^ S: Thank you for your co-operation!
 Talk through the thing
+Show of hands for some of the popular ones
+Ask them to look around at all the hands up: lots of us!
 Permanent, Temporary, Contextual,
 Usually a human has more than one at a time
 
@@ -295,6 +298,7 @@ WCAG Principles of accessibility
 
 ^ N: Inc design is also about good usability. We aren't making things that are "just pretty." We're making things that look good and work well. We want to get out of the way and let the user do what they came to do
 ^ UX paradox: if we've done our job well, our work becomes invisible.
+^ ? Talk about how this makes our job difficult
 
 <!--
 ---
@@ -322,15 +326,11 @@ Good design is unobtrusive, makes a product useful (Dieter Rams)
 
 ![](img/agilemanifesto.jpg)
 
-^S: quality meaning good
+^S: quality meaning technically good
 // “Build the thing right”
-Structural and Functional quality
-Is it ship-shape? Question like:
-Does it work?
-Does it hold together?
-Do the sails catch the wind?
-Does the anchor hold fast?
-How far can Steve stretch this metaphor?
+Structurally sound?
+Functionally sound?
+Is it ship-shape?
 
 ---
 
@@ -344,7 +344,7 @@ How far can Steve stretch this metaphor?
 -->
 
 ## **❤ Inclusive Design**
-## helps us be a superhero
+## helps us be superheros
 
 ![](img/superhero.jpg)
 
@@ -421,6 +421,7 @@ Durable and flexible UX speaks volumes about our values - we're not just talking
 ^ S: And okay, maybe sometimes it is a little boring. Less shiny, less shouty.
 Confident enough to say "the right thing here isn't the shiny thing. It's the standard bit of UI. That's what's best for our users."
 Lead by design example, inspire others to do the same. This can be groundbreaking - the opposite of boring!
+This is one I still struggle with selling.
 
 ---
 
