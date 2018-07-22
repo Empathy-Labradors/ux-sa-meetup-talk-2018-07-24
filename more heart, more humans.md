@@ -5,7 +5,6 @@ Theme: Fira, 3
 ## More 💛, more humans
 
 <!-- TODO: make a bigger deal of overlapping disabilities? -->
-<!-- TODO: Use WHO's definition too? http://www.who.int/topics/disabilities/en/ -->
 
 ---
 
@@ -13,10 +12,18 @@ Theme: Fira, 3
 
 ![](img/spectrum.jpg)
 
-^ S: This will help you be a superhero to your users
+^ S: Most important thing from this talk
+This will help you be a superhero to your users
 It'll help you have more humans, on more devices and browsers, under more conditions
 Inclusive Design is a powerful tool thing that will help you do this
-(Dis)ability is a spectrum, like screen size is for responsive web design
+
+---
+
+![](img/responsive.gif)
+
+^ We understand, or are coming to understand, that screen size is a continuum
+with responsive web design and CSS grid
+We'll see that (Dis)ability is a spectrum, like this
 
 ---
 
@@ -127,14 +134,16 @@ Functional capacity + Barrier
 (Barrier e.g.s come after the activity!)
 A Disability occurs when the product creates a barrier to access
 From a book called "A Web For Everyone"
+World Health Organisation: interaction between person’s body and their society
+barriers: environmental, social, more
 
 ---
 
 ![fit](img/firstwebsite.png)
 
 ^ N: This is the first web site, from 1991. Yeah, looks like shit, but it fucking works!
-- No barriers - no limitations to access/usage/functionality (i.e. no limits to people's abilities to use this site)
-Accessible
+- No barriers - no impairments, activity limitations, or participation restrictions (access/usage/functionality)
+- Accessible
 - Responsive too!
 - What we'll see shortly is that all the shiny shit we add can limit people's abilities to use our stuff and therefore create barriers.
 
@@ -260,8 +269,9 @@ Any of these could create a barrier to access, to use
 
 ![](img/inclusive-design.jpg)
 
-^ S: Inc design = designing for the diversity of our users. Despite preconceptions we may have
-we have users with different abilities
+^ S: Inc design = designing for the diversity of our users.
+It's the process of making conscious decisions to check our assumptions about who is and isn't our audience,
+what abilities they have or don't have
 lots of the disabilities are invisible. Won't show up in analytics or stats
 (point at barriers activity)
 
