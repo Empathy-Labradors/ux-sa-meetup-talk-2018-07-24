@@ -21,13 +21,13 @@ Inclusive Design is a powerful tool thing that will help you do this
 
 ![](img/responsive.gif)
 
-^ We understand, or are coming to understand, that screen size is a continuum
+^ We understand, or are coming to understand, that screen size is a spectrum
 with responsive web design and CSS grid
 We'll see that (Dis)ability is a spectrum, like this
 
 ---
 
-## Did anyone notice<br>something weird on the walls?
+## Did anyone notice<br>something weird<br>on the walls?
 
 ## **bit.ly/emplab301**
 
@@ -163,7 +163,7 @@ Thank you for your co-operation
 
 ---
 
-## Experienced this?
+## **Experienced this?**
 ## Friend? 👯<br>Parent? 👵<br>Colleague? 👷
 ## **Draw a ❤**
 
@@ -260,7 +260,7 @@ Any of these could create a barrier to access, to use
 ## **2. The What and the Why**
 ## 3. The How
 
-^ N: any questions about disability as a spectrum
+^ N: any questions about disability as a spectrum?
 Let's talk about what inclusive design is.
 
 ---
@@ -581,7 +581,7 @@ We ran one in Cape Town last weekend
 ## **bit.ly/emplab-ten-at-ten**
 
 ^ N: Tomorrow at 10am spend 10 mins testing your stuff.
-pPick one thing that you can tweak and make better! We’ll post this link in the meetup.
+Pick one thing that you can tweak and make better! We’ll post this link in the meetup.
 It’s three short activities for the three checks we mentioned a moment ago. Pick one!
 Think of someone you (drew a heart for) stood up for at the beginning, choose the activity that's closest to them.
 
